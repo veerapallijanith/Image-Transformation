@@ -150,9 +150,5 @@ v)Image Rotation
 
 ![image](https://github.com/veerapallijanith/Image-Transformation/blob/main/kd5.jpg)
 
-vi)Image Cropping
-
-![image](https://github.com/veerapallijanith/Image-Transformation/blob/main/kd6.jpg)
-
 ## Result: ##
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
